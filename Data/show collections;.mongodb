@@ -1,0 +1,114 @@
+use('groceryData')
+
+db.products.insertMany([
+  {
+    _id: 1,
+    category_id: 1,
+    name: 'barcolli',
+    image: 'https://i.ibb.co/hM0gctk/12-broccoli.png',
+    description: 'Fresh barcolli',
+    price: 25,
+    rating: 3.5,
+    numReviews: 5
+  },
+  {
+    _id: 2,
+    category_id: 1,
+    name: 'cabbage',
+    image: 'https://i.ibb.co/4RS5tGB/6-cabbage-png-image.png',
+    description: 'Fresh cabbage',
+    price: 20,
+    rating: 3.5,
+    numReviews: 5
+  },
+  {
+    _id: 3,
+    category_id: 1,
+    name: 'potato',
+    image: 'https://i.ibb.co/DpbZnjz/potatoes-ga6dac239f-640.jpg',
+    description: 'Fresh potato',
+    price: 50,
+    rating: 3.5,
+    numReviews: 5
+  },
+  {
+    _id: 4,
+    category_id: 3,
+    name: 'carrot',
+    image: 'https://i.ibb.co/Sxy9BLZ/carrot-juice-ge2913f356-640.jpg',
+    description: 'Fresh carrot',
+    price: 60,
+    rating: 4.5,
+    numReviews: 5
+  },
+  {
+    _id: 5,
+    category_id: 2,
+    name: 'meat',
+    image: 'https://i.ibb.co/JQm4Wq7/meat.jpg',
+    description: 'Fresh meat',
+    price: 160,
+    rating: 3.5,
+    numReviews: 5
+  },
+  {
+    _id: 6,
+    category_id: 1,
+    name: 'Onion',
+    image: 'https://i.ibb.co/yVKhGjt/onions-ga291e7cef-640.jpg',
+    description: 'Fresh Onion',
+    price: 20,
+    rating: 3.5,
+    numReviews: 5
+  },
+  {
+    _id: 7,
+    category_id: 1,
+    name: 'Ginger',
+    image: 'https://i.ibb.co/pPs4203/ginger-gecde27da7-640.jpg',
+    description: 'Fresh Ginger',
+    price: 10,
+    rating: 3.5,
+    numReviews: 5
+  },
+  {
+    _id: 8,
+    category_id: 4,
+    name: 'strawberry Juice',
+    image: 'https://i.ibb.co/9rfvWZd/strawberry-juice.jpg',
+    description: 'Fresh strawberry Juice',
+    price: 210,
+    rating: 4.5,
+    numReviews: 5
+  },
+  {
+    _id: 9,
+    category_id: 3,
+    name: 'grapes',
+    image: 'https://i.ibb.co/M7Hp1Ct/grapes.jpg',
+    description: 'Fresh grapes',
+    price: 100,
+    rating: 4.5,
+    numReviews: 5
+  },
+  {
+    _id: 10,
+    category_id: 3,
+    name: 'Orange',
+    image: 'https://i.ibb.co/F7ZnK68/orange.jpg',
+    description: 'Fresh Orange',
+    price: 80,
+    rating: 4.5,
+    numReviews: 5
+  },
+  {
+    _id: 11,
+    category_id: 2,
+    name: 'chicken',
+    image: 'https://i.ibb.co/WW8875m/fresh-chicken.jpg',
+    description: 'Fresh chicken',
+    price: 170,
+    rating: 3.5,
+    numReviews: 5
+  }
+])

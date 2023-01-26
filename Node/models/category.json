@@ -1,0 +1,26 @@
+db.category.insert([
+    {   
+        "id":1,
+        "category_id":1,
+        "name":"Vegetable",
+        "type":"veg"
+    },
+    {   
+        "id":2,
+        "category_id":2,
+        "name":"meat and chicken",
+        "type":"non_veg"
+    },
+    {   
+        "id":3,
+        "category_id":3,
+        "name":"fruits",
+        "type":"veg"
+    },
+    {   
+        "id":4,
+        "category_id":4,
+        "name":"dairy",
+        "type":"veg"
+    }
+])

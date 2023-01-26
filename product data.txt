@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "1",
+        "name": "barcolli",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh barcolli",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    },
+    {
+        "_id": "2",
+        "name": "cabbage",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh cabbage",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    },
+    {
+        "_id": "3",
+        "name": "potato",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh potato",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    },
+    {
+        "_id": "4",
+        "name": "meat",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh meat",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    },
+    {
+        "_id": "5",
+        "name": "Onion",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh Onion",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    },
+    {
+        "_id": "6",
+        "name": "Ginger",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh Ginger",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    },
+    {
+        "_id": "7",
+        "name": "tomato",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh tomato",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    },
+    {
+        "_id": "8",
+        "name": "mixvegetable",
+        "image": "https://i.ibb.co/hM0gctk/12-broccoli.png",
+        "description": "Fresh mixvegetable",
+        "price": "$10.00",
+        "rating":"3.5",
+        "numReviews":"5"
+    }
+]
